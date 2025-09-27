@@ -1,6 +1,3 @@
-<img width="2437" height="2380" alt="introduce_lungexercise_02" src="https://github.com/user-attachments/assets/1f568707-8225-4799-afbc-5116823c1ecb" />
-
-
 <!--
 **hangu26/hangu26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

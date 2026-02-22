@@ -3,8 +3,8 @@
   <img src="assets/welcome.gif" alt="welcome" />
 
 ### AI가 되고 싶은 개발자 이현구 입니다.  
-📱 Native Android Developer (Kotlin)  
-🌐 Web Developer (React)  
+ Native Android Developer (Kotlin)  
+ Web Developer (React)  
 
 <br/>
 

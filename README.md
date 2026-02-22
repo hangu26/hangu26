@@ -6,26 +6,67 @@ Native Android Developer (Kotlin) · Web Developer (React)
 
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
-**Android:**  
-<img src="https://skillicons.dev/icons?i=kotlin" width="28"/> Kotlin &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=androidstudio" width="28"/> Android Studio
+**Android**
+<div>
+  <div style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=kotlin" width="40"/><br/>
+    Kotlin
+  </div>
+  <div style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=androidstudio" width="40"/><br/>
+    Android Studio
+  </div>
+</div>
 
-**Web:**  
-<img src="https://skillicons.dev/icons?i=react" width="28"/> React &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" width="28"/> JavaScript &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="28"/> HTML &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="28"/> CSS
+**Web**
+<div>
+  <div style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>
+    React
+  </div>
+  <div style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/>
+    JavaScript
+  </div>
+  <div style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>
+    HTML
+  </div>
+  <div style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>
+    CSS
+  </div>
+</div>
 
-**Databases & Backend:**  
-<img src="https://skillicons.dev/icons?i=firebase" width="28"/> Firebase
+**Databases / Backend**
+<div>
+  <div style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=firebase" width="40"/><br/>
+    Firebase
+  </div>
+</div>
 
-**Tools & Design:**  
-<img src="https://skillicons.dev/icons?i=git" width="28"/> Git &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma" width="28"/> Figma &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="28"/> VS Code &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="28"/> SourceTree
+**Tools / Design**
+<div>
+  <div style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>
+    Git
+  </div>
+  <div style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=figma" width="40"/><br/>
+    Figma
+  </div>
+  <div style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>
+    VS Code
+  </div>
+  <div style="display:inline-block; text-align:center; margin:5px;">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/><br/>
+    SourceTree
+  </div>
+</div>
 
 ---
 

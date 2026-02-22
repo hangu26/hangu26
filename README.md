@@ -108,7 +108,6 @@ Native Android Developer (Kotlin) · Web Developer (React)
 - EEG / PSG 데이터 전처리 및 분석
 - 수면 데이터 기반 그래프 UI 구현 (React)
 - 사용자 데이터 탐색 흐름을 고려한 UX 설계
-- 데이터 관리용 DB 구조 설계
 
 **외주 프로젝트** (2024) | Android App Developer  
 *전자 마스크 · Galaxy Watch 연동 헬스케어 앱*

@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=180&section=header&text=Android%20%26%20Web%20Developer&fontSize=36&fontColor=ffffff)
+<div align="center">
+  <img src="assets/welcome.gif" alt="welcome" />
+</div>
 
 ### AI가 되고 싶은 개발자 이현구 입니다.  
  Native Android Developer (Kotlin)  

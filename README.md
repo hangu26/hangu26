@@ -79,10 +79,7 @@
 ---
 
 ##  GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=hangu26&show_icons=true&theme=tokyonight&hide_border=true" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangu26&layout=compact&theme=tokyonight&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com?user=hangu26&theme=tokyonight&hide_border=true" />
 <br/>
 
 ---

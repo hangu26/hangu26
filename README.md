@@ -3,8 +3,8 @@
   <img src="assets/welcome.gif" alt="welcome" width="590"/>
 
 ### AI 기술에 관심 있는 모바일 앱 개발자 이현구 입니다.  
- Native Android Developer (Kotlin)  
- Web Developer (React)
+📱 Native Android Developer (Kotlin)  
+🌐 Web Developer (React)
 
 <br/>
 
@@ -52,7 +52,7 @@
 
 ---
 
-###  Tools
+### ⚙️ Tools
 <table>
   <tr>
     <td align="center">
@@ -81,19 +81,27 @@
 ##  Featured Project
 
 ### 😷 LungExercise
-**Bluetooth Classic(SPP)** 기반 전자 마스크 연동  
-Android 호흡 운동 · 폐활량 관리 애플리케이션
+전자 마스크 + Galaxy Watch 연동  
+**호흡 운동 & 활동 데이터 통합 Android 애플리케이션**
+
+**Overview**
+- 전자 마스크와 **Bluetooth Classic(SPP)** 기반 시리얼 통신
+- Galaxy Watch 연동으로 **실시간 걸음 수 · 심박수 수집**
+- 디바이스 + 웨어러블 데이터를 통합하여 사용자 상태를 종합적으로 관리
 
 **What I Did**
 - Bluetooth Classic **Serial Communication(SPP)** 구현
-- 디바이스 ↔ 모바일 **실시간 데이터 수신 및 제어**
+- 전자 마스크 ↔ 모바일 **실시간 센서 데이터 수신 및 제어**
+- Galaxy Watch ↔ Android **Wear OS 데이터 연동**
+- 걸음 수 · 심박수 **실시간 동기화 및 상태 관리**
+- 다중 디바이스 연결 상황에서의 **UX 흐름 설계**
 - 연결 끊김 / 재연결 등 **예외 상황 처리**
-- 측정 상태에 따른 UI 상태 관리
 
 **Tech Stack**
 - Kotlin · Android
 - Bluetooth Classic (SPP)
-- IoT Device Integration
+- Wear OS (Galaxy Watch)
+- IoT / Wearable Device Integration
 
 🔗 **GitHub Repository**  
 https://github.com/hangu26/LungExercise
@@ -124,15 +132,15 @@ https://github.com/hangu26/LungExercise
 </table>
 
 - 전자 마스크 ↔ Android 앱 **시리얼 통신(SPP)** 기반 연동
-- Galaxy Watch 연동 **컴패니언 앱 개발**
-- 모바일 ↔ 디바이스 **실시간 데이터 처리**
-- 디바이스 상태 관리 및 연결 안정성 고려한 UX 설계
+- Galaxy Watch 연동 **실시간 활동 데이터 수집**
+- 모바일 ↔ 디바이스 ↔ 웨어러블 **통합 상태 관리**
+- 연결 안정성과 사용자 경험을 고려한 UX 설계
 
 <br/>
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 <img src="https://streak-stats.demolab.com?user=hangu26&theme=tokyonight&hide_border=true&card_width=400" />
 
 <br/>
@@ -143,6 +151,7 @@ https://github.com/hangu26/LungExercise
 - 네이티브 안드로이드 앱 개발 (Kotlin)
 - React 기반 웹 개발
 - IoT · 웨어러블 디바이스 연동 경험
+- 멀티 디바이스 데이터 통합 및 상태 관리
 - 사용자 경험과 유지보수를 고려한 구조 설계
 - Clean Code & 지속적인 개선을 지향
 

@@ -1,41 +1,31 @@
-<div align="center">
+# AI 기술에 관심 있는 모바일 앱 개발자 이현구
 
 <img src="assets/welcome.gif" alt="welcome" width="500"/>
 
-### AI 기술에 관심 있는 모바일 앱 개발자 이현구  
 Native Android Developer (Kotlin) · Web Developer (React)
-
-</div>
 
 ---
 
-##  Tech Stack
+## 🛠 Tech Stack
 
-### Languages
-<div>
-  <img src="https://skillicons.dev/icons?i=kotlin" width="50"/> Kotlin &nbsp;
-  <img src="https://skillicons.dev/icons?i=javascript" width="50"/> JavaScript &nbsp;
-  <img src="https://skillicons.dev/icons?i=html" width="50"/> HTML &nbsp;
-  <img src="https://skillicons.dev/icons?i=css" width="50"/> CSS
-</div>
+**Android:**  
+<img src="https://skillicons.dev/icons?i=kotlin" width="28"/> Kotlin &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=androidstudio" width="28"/> Android Studio
 
-### Libraries & Frameworks
-<div>
-  <img src="https://skillicons.dev/icons?i=react" width="50"/> React
-</div>
+**Web:**  
+<img src="https://skillicons.dev/icons?i=react" width="28"/> React &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=javascript" width="28"/> JavaScript &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="28"/> HTML &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="28"/> CSS
 
-### Databases / Backend
-<div>
-  <img src="https://skillicons.dev/icons?i=firebase" width="50"/> Firebase
-</div>
+**Databases & Backend:**  
+<img src="https://skillicons.dev/icons?i=firebase" width="28"/> Firebase
 
-### Tools & Design
-<div>
-  <img src="https://skillicons.dev/icons?i=git" width="50"/> Git &nbsp;
-  <img src="https://skillicons.dev/icons?i=figma" width="50"/> Figma &nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" width="50"/> VS Code &nbsp;
-  <img src="https://skillicons.dev/icons?i=github" width="50"/> SourceTree
-</div>
+**Tools & Design:**  
+<img src="https://skillicons.dev/icons?i=git" width="28"/> Git &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" width="28"/> Figma &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="28"/> VS Code &nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="28"/> SourceTree
 
 ---
 
@@ -58,7 +48,7 @@ Android Developer (Kotlin) | 2025.01 – 2025.11 | 개인 외주
 
 ---
 
-##  Featured Project
+## 😷 Featured Project
 
 **LungExercise** – Android + Wearable App  
 - Bluetooth SPP 기반 전자 마스크 통신  
@@ -71,7 +61,7 @@ Android Developer (Kotlin) | 2025.01 – 2025.11 | 개인 외주
 
 ---
 
-##  IoT / Device Integration
+## 🔌 IoT / Device Integration
 
 📡 **Bluetooth Classic (SPP)** – Serial Communication  
 ⌚ **Galaxy Watch** – Wear OS Companion App  
@@ -84,7 +74,7 @@ Android Developer (Kotlin) | 2025.01 – 2025.11 | 개인 외주
 
 ---
 
-##  GitHub Activity
+## 📊 GitHub Activity
 
 <img src="https://streak-stats.demolab.com?user=hangu26&theme=tokyonight&hide_border=true&card_width=400" />
 

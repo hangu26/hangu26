@@ -101,14 +101,21 @@ Native Android Developer (Kotlin) · Web Developer (React)
 
 ---
 
-## 💼 Experience
+## 💼 Work Experience
 
-**EEG · 수면다원검사 데이터 시각화 Web App**  
-Frontend Developer (React) · 2025.11 – 2026.02  
+**대전대학교** (2025.11. – 2026.02) | Web Frontend Developer (계약)  
+*EEG · 수면다원검사 데이터 시각화 웹 애플리케이션*
 - EEG / PSG 데이터 전처리 및 분석
-- 사용자 친화적 그래프 UI 구현
-- 데이터 탐색 흐름을 고려한 UX 설계
-- DB 구조 설계 및 데이터 관리
+- 수면 데이터 기반 그래프 UI 구현 (React)
+- 사용자 데이터 탐색 흐름을 고려한 UX 설계
+- 데이터 관리용 DB 구조 설계
+
+**외주 프로젝트** (2024) | Android App Developer  
+*전자 마스크 · Galaxy Watch 연동 헬스케어 앱*
+- Bluetooth Classic(SPP) 기반 시리얼 통신 구현
+- Galaxy Watch 실시간 걸음 수 · 심박수 연동
+- 디바이스 · 웨어러블 데이터 통합 상태 관리
+- UI / UX 전체 기획 및 디자인 (Figma)
 
 <br/>
 

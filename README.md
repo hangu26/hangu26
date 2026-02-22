@@ -5,7 +5,9 @@
 ### AI 기술에 관심 있는 모바일 앱 개발자 이현구 입니다.  
 📱 Native Android Developer (Kotlin)  
 🌐 Web Developer (React)
+
 <br/>
+
 ---
 
 ## 🛠 Tech Stack

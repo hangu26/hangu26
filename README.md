@@ -12,7 +12,7 @@
 
 ## 🛠 Tech Stack
 
-### 📱 Android
+###  Android
 <table>
   <tr>
     <td align="center">
@@ -28,7 +28,7 @@
 
 ---
 
-### 🌐 Web
+###  Web
 <table>
   <tr>
     <td align="center">
@@ -52,7 +52,7 @@
 
 ---
 
-### ⚙️ Tools
+###  Tools
 <table>
   <tr>
     <td align="center">
@@ -87,12 +87,12 @@
       <sub>Serial Communication</sub>
     </td>
     <td align="center">
-      ⌚<br/>
+      <br/>
       <b>Galaxy Watch</b><br/>
       <sub>Wear OS Companion App</sub>
     </td>
     <td align="center">
-      🤖<br/>
+      <br/>
       <b>IoT Device</b><br/>
       <sub>Real-time Data Sync</sub>
     </td>

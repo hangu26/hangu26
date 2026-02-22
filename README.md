@@ -87,12 +87,12 @@
       <sub>Serial Communication</sub>
     </td>
     <td align="center">
-      <br/>
+      ⌚<br/>
       <b>Galaxy Watch</b><br/>
       <sub>Wear OS Companion App</sub>
     </td>
     <td align="center">
-      <br/>
+      🤖<br/>
       <b>IoT Device</b><br/>
       <sub>Real-time Data Sync</sub>
     </td>

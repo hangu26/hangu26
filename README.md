@@ -1,10 +1,10 @@
 <div align="center">
 
-  <img src="assets/welcome.gif" alt="welcome" />
+  <img src="assets/welcome.gif" alt="welcome" width="420"/>
 
 ### AI 기술에 관심 있는 모바일 앱 개발자 이현구 입니다.  
- Native Android Developer (Kotlin)  
- Web Developer (React)  
+📱 Native Android Developer (Kotlin)  
+🌐 Web Developer (React)  
 
 <br/>
 
@@ -12,15 +12,15 @@
 
 ## 🛠 Tech Stack
 
-###  Android
+### 📱 Android
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40"/><br/>
       <b>Kotlin</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="40"/><br/>
       <b>Android Studio</b>
     </td>
   </tr>
@@ -28,23 +28,23 @@
 
 ---
 
-###  Web
+### 🌐 Web
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>
       <b>React</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/>
       <b>JavaScript</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>
       <b>HTML</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>
       <b>CSS</b>
     </td>
   </tr>
@@ -52,23 +52,23 @@
 
 ---
 
-###  Tools
+### ⚙️ Tools
 <table>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>
       <b>Git</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=figma" width="40"/><br/>
       <b>Figma</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>
       <b>VS Code</b>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
+      <img src="https://skillicons.dev/icons?i=github" width="40"/><br/>
       <b>SourceTree</b>
     </td>
   </tr>
@@ -89,27 +89,28 @@
     <td align="center">
       ⌚<br/>
       <b>Galaxy Watch</b><br/>
-      <sub>Wear OS Companion App</sub>
+      <sub>Wear OS App</sub>
     </td>
     <td align="center">
       🤖<br/>
       <b>IoT Device</b><br/>
-      <sub>Real-time Data Sync</sub>
+      <sub>Real-time Sync</sub>
     </td>
   </tr>
 </table>
 
-- 전자 마스크 ↔ Android 앱 **시리얼 통신(SPP)** 기반 연동
-- Galaxy Watch 연동 **컴패니언 앱 개발**
-- 모바일 ↔ 디바이스 **실시간 데이터 처리**
-- 디바이스 상태 관리 및 연결 안정성 고려한 UX 설계
+- 전자 마스크 ↔ Android 앱 **시리얼 통신(SPP)** 기반 연동  
+- Galaxy Watch 연동 **컴패니언 앱 개발**  
+- 모바일 ↔ 디바이스 **실시간 데이터 처리**  
+- 디바이스 상태 관리 및 연결 안정성 고려한 UX 설계  
 
 <br/>
 
 ---
 
 ## 📊 GitHub Activity
-<img src="https://streak-stats.demolab.com?user=hangu26&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=hangu26&theme=tokyonight&hide_border=true&card_width=400" />
+
 <br/>
 
 ---

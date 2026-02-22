@@ -1,66 +1,100 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=180&section=header&text=Android%20%26%20Web%20Developer&fontSize=38&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:141E30,100:243B55&height=180&section=header&text=Android%20%26%20Web%20Developer&fontSize=36&fontColor=ffffff)
 
 ### 👋 Hi, I'm Hangu  
 📱 Native Android Developer (Kotlin)  
 🌐 Web Developer (React)  
-✨ 사용자 경험을 고민하는 개발자
 
 <br/>
 
 ---
 
-### 🛠 Tech Stack
-#### 📱 Android
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio&theme=dark" />
+## 🛠 Tech Stack
 
-#### 🌐 Web
-<img src="https://skillicons.dev/icons?i=react,javascript,html,css&theme=dark" />
+###  Android
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48"/><br/>
+      <b>Kotlin</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="48"/><br/>
+      <b>Android Studio</b>
+    </td>
+  </tr>
+</table>
 
-#### ⚙️ Tools & DB
-<img src="https://skillicons.dev/icons?i=git,github,firebase,mysql&theme=dark" />
+---
+
+###  Web
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="48"/><br/>
+      <b>React</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48"/><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="48"/><br/>
+      <b>HTML</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="48"/><br/>
+      <b>CSS</b>
+    </td>
+  </tr>
+</table>
+
+---
+
+###  Tools
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="48"/><br/>
+      <b>Git</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>
+      <b>Figma</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>
+      <b>VS Code</b>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="48"/><br/>
+      <b>SourceTree</b>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 ---
 
-### 📊 GitHub Stats
+##  GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api?username=hangu26&show_icons=true&theme=tokyonight&hide_border=true" />
-
+<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hangu26&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
 ---
 
-### 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=hangu26&theme=tokyonight&hide_border=true" />
+## ✨ About Me
+-  네이티브 안드로이드 앱 개발 (Kotlin)
+-  React 기반 웹 개발
+-  사용자 경험과 유지보수를 고려한 구조 설계
+-  Clean Code & 지속적인 개선을 지향
 
 <br/>
 
----
-
-### ✨ What I Care About
-📌 Clean Architecture  
-📌 Maintainable Code  
-📌 UI/UX for real users  
-📌 꾸준한 기록과 성장
-
-<br/>
-
----
-
-### 📫 Contact
-<a href="mailto:your_email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-222222?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://velog.io/@your_velog">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-🚀 *Build apps that people actually want to use.*
+🚀 *Build apps that users enjoy using.*
 
 </div>

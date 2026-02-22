@@ -9,25 +9,33 @@ Native Android Developer (Kotlin) · Web Developer (React)
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 ### Languages
-[![Kotlin](https://skillicons.dev/icons?i=kotlin)](https://kotlinlang.org/) Kotlin &nbsp;
-[![JavaScript](https://skillicons.dev/icons?i=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) JavaScript &nbsp;
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML) HTML &nbsp;
-[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS) CSS
+<div>
+  <img src="https://skillicons.dev/icons?i=kotlin" width="50"/> Kotlin &nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript" width="50"/> JavaScript &nbsp;
+  <img src="https://skillicons.dev/icons?i=html" width="50"/> HTML &nbsp;
+  <img src="https://skillicons.dev/icons?i=css" width="50"/> CSS
+</div>
 
 ### Libraries & Frameworks
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/) React &nbsp;
+<div>
+  <img src="https://skillicons.dev/icons?i=react" width="50"/> React
+</div>
 
 ### Databases / Backend
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/) Firebase
+<div>
+  <img src="https://skillicons.dev/icons?i=firebase" width="50"/> Firebase
+</div>
 
 ### Tools & Design
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/) Git &nbsp;
-[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/) Figma &nbsp;
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) VS Code &nbsp;
-[![SourceTree](https://skillicons.dev/icons?i=github)](https://www.sourcetreeapp.com/) SourceTree
+<div>
+  <img src="https://skillicons.dev/icons?i=git" width="50"/> Git &nbsp;
+  <img src="https://skillicons.dev/icons?i=figma" width="50"/> Figma &nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/> VS Code &nbsp;
+  <img src="https://skillicons.dev/icons?i=github" width="50"/> SourceTree
+</div>
 
 ---
 
@@ -50,7 +58,7 @@ Android Developer (Kotlin) | 2025.01 – 2025.11 | 개인 외주
 
 ---
 
-## 😷 Featured Project
+##  Featured Project
 
 **LungExercise** – Android + Wearable App  
 - Bluetooth SPP 기반 전자 마스크 통신  
@@ -63,7 +71,7 @@ Android Developer (Kotlin) | 2025.01 – 2025.11 | 개인 외주
 
 ---
 
-## 🔌 IoT / Device Integration
+##  IoT / Device Integration
 
 📡 **Bluetooth Classic (SPP)** – Serial Communication  
 ⌚ **Galaxy Watch** – Wear OS Companion App  
@@ -76,7 +84,7 @@ Android Developer (Kotlin) | 2025.01 – 2025.11 | 개인 외주
 
 ---
 
-## 📊 GitHub Activity
+##  GitHub Activity
 
 <img src="https://streak-stats.demolab.com?user=hangu26&theme=tokyonight&hide_border=true&card_width=400" />
 

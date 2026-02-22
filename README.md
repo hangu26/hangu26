@@ -8,24 +8,24 @@ Native Android Developer (Kotlin) · Web Developer (React)
 
 ## 🛠 Tech Stack
 
-**Android:**  
-<img src="https://skillicons.dev/icons?i=kotlin" width="28"/> Kotlin &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=androidstudio" width="28"/> Android Studio
+###  Android
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> 
+<img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 
-**Web:**  
-<img src="https://skillicons.dev/icons?i=react" width="28"/> React &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=javascript" width="28"/> JavaScript &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=html" width="28"/> HTML &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="28"/> CSS
+###  Web
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
-**Databases & Backend:**  
-<img src="https://skillicons.dev/icons?i=firebase" width="28"/> Firebase
+###  Databases & Backend
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
 
-**Tools & Design:**  
-<img src="https://skillicons.dev/icons?i=git" width="28"/> Git &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=figma" width="28"/> Figma &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="28"/> VS Code &nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="28"/> SourceTree
+###  Tools & Design
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 
 ---
 

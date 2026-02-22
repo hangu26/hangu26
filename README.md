@@ -3,8 +3,8 @@
   <img src="assets/welcome.gif" alt="welcome" width="590"/>
 
 ### AI 기술에 관심 있는 모바일 앱 개발자 이현구 입니다.  
-📱 Native Android Developer (Kotlin)  
-🌐 Web Developer (React)
+ Native Android Developer (Kotlin)  
+ Web Developer (React)
 
 <br/>
 
@@ -52,7 +52,7 @@
 
 ---
 
-### ⚙️ Tools
+###  Tools
 <table>
   <tr>
     <td align="center">
@@ -90,6 +90,8 @@
 - 디바이스 + 웨어러블 데이터를 통합하여 사용자 상태를 종합적으로 관리
 
 **What I Did**
+- **UI / UX 전체 기획 및 디자인 (Figma)**  
+- 사용자 흐름 기반 화면 구조 설계 및 인터랙션 정의
 - Bluetooth Classic **Serial Communication(SPP)** 구현
 - 전자 마스크 ↔ 모바일 **실시간 센서 데이터 수신 및 제어**
 - Galaxy Watch ↔ Android **Wear OS 데이터 연동**
@@ -101,6 +103,7 @@
 - Kotlin · Android
 - Bluetooth Classic (SPP)
 - Wear OS (Galaxy Watch)
+- Figma (UI/UX Design)
 - IoT / Wearable Device Integration
 
 🔗 **GitHub Repository**  
@@ -110,7 +113,7 @@ https://github.com/hangu26/LungExercise
 
 ---
 
-## 🔌 IoT / Device Integration
+##  IoT / Device Integration
 <table>
   <tr>
     <td align="center">
@@ -134,7 +137,7 @@ https://github.com/hangu26/LungExercise
 - 전자 마스크 ↔ Android 앱 **시리얼 통신(SPP)** 기반 연동
 - Galaxy Watch 연동 **실시간 활동 데이터 수집**
 - 모바일 ↔ 디바이스 ↔ 웨어러블 **통합 상태 관리**
-- 연결 안정성과 사용자 경험을 고려한 UX 설계
+- UX 관점에서의 연결 안정성 및 상태 피드백 설계
 
 <br/>
 
@@ -150,9 +153,9 @@ https://github.com/hangu26/LungExercise
 ## ✨ About Me
 - 네이티브 안드로이드 앱 개발 (Kotlin)
 - React 기반 웹 개발
+- UI / UX 기획부터 구현까지 가능한 개발자
 - IoT · 웨어러블 디바이스 연동 경험
 - 멀티 디바이스 데이터 통합 및 상태 관리
-- 사용자 경험과 유지보수를 고려한 구조 설계
 - Clean Code & 지속적인 개선을 지향
 
 <br/>

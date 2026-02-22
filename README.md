@@ -51,6 +51,18 @@ Native Android Developer (Kotlin) · Web Developer (React)
 
 ---
 
+### Databases & Backend
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=firebase" width="36"/><br/>
+      Firebase
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Tools & Design
 <table>
   <tr>

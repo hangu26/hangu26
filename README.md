@@ -1,6 +1,6 @@
 <div align="center"> 
 
-<img src="assets/welcome.gif" alt="welcome" width="520"/>
+<img src="assets/welcome.gif" alt="welcome" width="650"/>
 
 ### AI 기술에 관심 있는 모바일 앱 개발자 이현구  
  Native Android Developer (Kotlin) ·  Web Developer (React)

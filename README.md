@@ -3,8 +3,8 @@
   <img src="assets/welcome.gif" alt="welcome" width="420"/>
 
 ### AI 기술에 관심 있는 모바일 앱 개발자 이현구 입니다.  
-📱 Native Android Developer (Kotlin)  
-🌐 Web Developer (React)  
+ Native Android Developer (Kotlin)  
+ Web Developer (React)
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 ## 🛠 Tech Stack
 
-### 📱 Android
+###  Android
 <table>
   <tr>
     <td align="center">
@@ -28,7 +28,7 @@
 
 ---
 
-### 🌐 Web
+###  Web
 <table>
   <tr>
     <td align="center">
@@ -52,7 +52,7 @@
 
 ---
 
-### ⚙️ Tools
+###  Tools
 <table>
   <tr>
     <td align="center">
@@ -78,6 +78,30 @@
 
 ---
 
+##  Featured Project
+
+### 😷 LungExercise
+**Bluetooth Classic(SPP)** 기반 전자 마스크 연동  
+Android 호흡 운동 · 폐활량 관리 애플리케이션
+
+**What I Did**
+- Bluetooth Classic **Serial Communication(SPP)** 구현
+- 디바이스 ↔ 모바일 **실시간 데이터 수신 및 제어**
+- 연결 끊김 / 재연결 등 **예외 상황 처리**
+- 측정 상태에 따른 UI 상태 관리
+
+**Tech Stack**
+- Kotlin · Android
+- Bluetooth Classic (SPP)
+- IoT Device Integration
+
+🔗 **GitHub Repository**  
+https://github.com/hangu26/LungExercise
+
+<br/>
+
+---
+
 ## 🔌 IoT / Device Integration
 <table>
   <tr>
@@ -89,20 +113,20 @@
     <td align="center">
       ⌚<br/>
       <b>Galaxy Watch</b><br/>
-      <sub>Wear OS App</sub>
+      <sub>Wear OS Companion App</sub>
     </td>
     <td align="center">
       🤖<br/>
       <b>IoT Device</b><br/>
-      <sub>Real-time Sync</sub>
+      <sub>Real-time Data Sync</sub>
     </td>
   </tr>
 </table>
 
-- 전자 마스크 ↔ Android 앱 **시리얼 통신(SPP)** 기반 연동  
-- Galaxy Watch 연동 **컴패니언 앱 개발**  
-- 모바일 ↔ 디바이스 **실시간 데이터 처리**  
-- 디바이스 상태 관리 및 연결 안정성 고려한 UX 설계  
+- 전자 마스크 ↔ Android 앱 **시리얼 통신(SPP)** 기반 연동
+- Galaxy Watch 연동 **컴패니언 앱 개발**
+- 모바일 ↔ 디바이스 **실시간 데이터 처리**
+- 디바이스 상태 관리 및 연결 안정성 고려한 UX 설계
 
 <br/>
 

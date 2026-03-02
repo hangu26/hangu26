@@ -24,15 +24,15 @@ Native Android Developer (Kotlin) · Web Developer (React)
 
 ## 💼 Work Experience
 
-**EEG / PSG 데이터 시각화 Web App**  
-Frontend Developer (React) | 2025.11 – 2026.02 | 대전대학교  
+**EEG / PSG 데이터 시각화 Web App (외주)**  
+Frontend Developer (React) | 2025.11 – 2026.02 | 프리랜서  
 - EEG / PSG 데이터 전처리 및 분석  
 - 사용자 친화적 그래프 UI 구현  
 - 데이터 탐색 흐름 기반 UX 설계  
 - DB 구조 설계 및 데이터 관리
 
 **LungExercise (앱 외주)**  
-Android Developer (Kotlin) | 2025.01 – 2025.11 | 개인 외주  
+Android Developer (Kotlin) | 2025.01 – 2025.11 | 프리랜서 
 - 전자 마스크 + Galaxy Watch 연동 앱 개발  
 - Bluetooth Classic(SPP) 기반 실시간 통신  
 - Wear OS 연동 걸음 수 · 심박수 실시간 수집  
